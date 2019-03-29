@@ -7,7 +7,11 @@
       "title": "sit amet diam in magna bibendum",
       "description": "vestibulum proin eu mi nulla ac enim in tempor",
       "content": "hac habitasse platea dictumst aliquam augue quam sollicitudin vitae",
-      "image": "http://dummyimage.com/400x300.jpg/ff4444/ffffff"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/215FF9/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/215FF9/ffffff"
+      },
+      "related": ["23", "18", "29"]
     },
     {
       "id": 23,
@@ -16,7 +20,11 @@
       "title": "duis at velit eu est congue elementum in hac",
       "description": "nibh in lectus pellentesque at nulla suspendisse",
       "content": "diam vitae quam suspendisse potenti nullam",
-      "image": "http://dummyimage.com/400x300.jpg/ff4444/ffffff"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/21B4F9/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/21B4F9/ffffff"
+      },
+      "related": ["35", "18", "29"]
     },
     {
       "id": 18,
@@ -25,7 +33,11 @@
       "title": "nam dui proin leo odio porttitor id",
       "description": "nullam varius nulla facilisi cras",
       "content": "vehicula consequat morbi a ipsum integer",
-      "image": "http://dummyimage.com/400x300.jpg/5fa2dd/ffffff"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/1BCA95/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/1BCA95/ffffff"
+      },
+      "related": ["35", "64", "29"]
     },
     {
       "id": 29,
@@ -34,7 +46,11 @@
       "title": "quisque erat eros viverra eget congue eget semper rutrum",
       "description": "pellentesque volutpat dui maecenas tristique",
       "content": "in purus eu magna vulputate",
-      "image": "http://dummyimage.com/400x300.jpg/dddddd/000000"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/72CA1B/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/72CA1B/ffffff"
+      },
+      "related": ["35", "64", "16"]
     },
     {
       "id": 64,
@@ -43,7 +59,11 @@
       "title": "justo lacinia eget tincidunt eget tempus",
       "description": "pede justo lacinia eget tincidunt",
       "content": "venenatis tristique fusce congue diam id ornare imperdiet sapien urna",
-      "image": "http://dummyimage.com/400x300.jpg/ff4444/ffffff"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/3D1BCA/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/3D1BCA/ffffff"
+      },
+      "related": ["29", "18", "16"]
     },
     {
       "id": 16,
@@ -52,7 +72,11 @@
       "title": "molestie hendrerit at vulputate vitae",
       "description": "suscipit nulla elit ac nulla sed",
       "content": "quis libero nullam sit amet turpis elementum ligula",
-      "image": "http://dummyimage.com/400x300.jpg/cc0000/ffffff"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/CA1B75/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/CA1B75/ffffff"
+      },
+      "related": ["29", "18", "58"]
     },
     {
       "id": 58,
@@ -61,7 +85,11 @@
       "title": "neque libero convallis eget eleifend luctus",
       "description": "platea dictumst etiam faucibus cursus urna ut tellus",
       "content": "orci nullam molestie nibh in lectus pellentesque at nulla suspendisse",
-      "image": "http://dummyimage.com/400x300.jpg/dddddd/000000"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/957C42/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/957C42/ffffff"
+      },
+      "related": ["29", "18", "97"]
     },
     {
       "id": 97,
@@ -70,38 +98,11 @@
       "title": "leo odio porttitor id consequat in consequat ut nulla sed",
       "description": "ut odio cras mi pede malesuada in",
       "content": "turpis integer aliquet massa id lobortis convallis tortor risus",
-      "image": "http://dummyimage.com/400x300.jpg/ff4444/ffffff"
-    },
-    {
-      "id": 37,
-      "type": "news",
-      "date": "2019-02-08 13:08:27",
-      "title": "molestie nibh in lectus pellentesque",
-      "description": "amet consectetuer adipiscing elit proin risus praesent lectus vestibulum",
-      "content": "massa donec dapibus duis at velit",
-      "image": "http://dummyimage.com/400x300.jpg/5fa2dd/ffffff"
-    },
-    {
-      "id": 76,
-      "type": "news",
-      "date": "2018-08-08 04:53:20",
-      "title": "habitasse platea dictumst etiam faucibus cursus",
-      "description": "tellus nisi eu orci mauris lacinia sapien quis libero",
-      "content": "volutpat eleifend donec ut dolor morbi vel lectus in quam",
-      "image": "http://dummyimage.com/400x300.jpg/ff4444/ffffff"
-    },
-
-    {
-      "id": 206,
-      "type": "case",
-      "date": "2018-03-29 04:00:12",
-      "title": "nam congue risus semper porta volutpat quam pede lobortis",
-      "description": "blandit ultrices enim lorem ipsum dolor sit",
-      "content": "tortor duis mattis egestas metus aenean",
-      "image": "http://dummyimage.com/400x300.jpg/5fa2dd/ffffff",
-      "age": 41,
-      "gender": "Male",
-      "country": "Germany"
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/879542/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/879542/ffffff"
+      },
+      "related": ["58", "18", "37"]
     },
     {
       "id": 260,
@@ -110,10 +111,15 @@
       "title": "et eros vestibulum ac est lacinia",
       "description": "orci luctus et ultrices posuere cubilia curae nulla dapibus",
       "content": "morbi non quam nec dui luctus",
-      "image": "http://dummyimage.com/400x300.jpg/dddddd/000000",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/424C95/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/424C95/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 64,
       "gender": "Female",
-      "country": "Germany"
+      "country": "Germany",
+      "disease": "disease-2"
     },
     {
       "id": 279,
@@ -122,10 +128,15 @@
       "title": "eget rutrum at lorem integer",
       "description": "vel ipsum praesent blandit lacinia erat vestibulum sed magna at",
       "content": "orci luctus et ultrices posuere",
-      "image": "http://dummyimage.com/400x300.jpg/ff4444/ffffff",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/764295/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/764295/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 52,
       "gender": "Male",
-      "country": "Italy"
+      "country": "Italy",
+      "disease": "disease-3"
     },
     {
       "id": 246,
@@ -134,10 +145,15 @@
       "title": "odio consequat varius integer ac leo pellentesque ultrices mattis odio",
       "description": "convallis nulla neque libero convallis eget eleifend",
       "content": "amet eros suspendisse accumsan tortor quis turpis",
-      "image": "http://dummyimage.com/400x300.jpg/dddddd/000000",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/954283/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/954283/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 59,
       "gender": "Male",
-      "country": "Spain"
+      "country": "Spain",
+      "disease": "disease-1"
     },
     {
       "id": 236,
@@ -146,10 +162,15 @@
       "title": "vehicula condimentum curabitur in libero ut massa volutpat convallis",
       "description": "platea dictumst morbi vestibulum velit",
       "content": "consequat nulla nisl nunc nisl",
-      "image": "http://dummyimage.com/400x300.jpg/cc0000/ffffff",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/546E4F/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/546E4F/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 62,
       "gender": "Female",
-      "country": "Netherlands"
+      "country": "Netherlands",
+      "disease": "disease-2"
     },
     {
       "id": 679,
@@ -158,10 +179,15 @@
       "title": "odio odio elementum eu interdum",
       "description": "lacinia erat vestibulum sed magna at nunc commodo placerat",
       "content": "vestibulum ante ipsum primis in",
-      "image": "http://dummyimage.com/400x300.jpg/5fa2dd/ffffff",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/58A4A0/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/58A4A0/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 35,
       "gender": "Male",
-      "country": "France"
+      "country": "France",
+      "disease": "disease-3"
     },
     {
       "id": 223,
@@ -170,10 +196,15 @@
       "title": "rutrum ac lobortis vel dapibus at diam nam tristique tortor",
       "description": "proin at turpis a pede posuere nonummy integer non",
       "content": "dapibus dolor vel est donec odio",
-      "image": "http://dummyimage.com/400x300.jpg/dddddd/000000",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/587EA4/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/587EA4/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 51,
       "gender": "Male",
-      "country": "Ireland"
+      "country": "Ireland",
+      "disease": "disease-1"
     },
     {
       "id": 275,
@@ -182,10 +213,15 @@
       "title": "nulla sed vel enim sit amet nunc viverra dapibus",
       "description": "mi sit amet lobortis sapien sapien non",
       "content": "sapien sapien non mi integer ac",
-      "image": "http://dummyimage.com/400x300.jpg/5fa2dd/ffffff",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/8D58A4/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/8D58A4/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 37,
       "gender": "Male",
-      "country": "Belgium"
+      "country": "Belgium",
+      "disease": "disease-2"
     },
     {
       "id": 229,
@@ -194,22 +230,15 @@
       "title": "nulla ac enim in tempor turpis nec euismod",
       "description": "fusce lacus purus aliquet at feugiat",
       "content": "tellus semper interdum mauris ullamcorper",
-      "image": "http://dummyimage.com/400x300.jpg/ff4444/ffffff",
+      "image": {
+        "thumbnail": "http://dummyimage.com/400x254.jpg/A48658/ffffff",
+        "full": "http://dummyimage.com/900x450.jpg/A48658/ffffff"
+      },
+      "download_url": "https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf",
       "age": 61,
       "gender": "Female",
-      "country": "Italy"
-    },
-    {
-      "id": 270,
-      "type": "case",
-      "date": "2018-07-21 02:31:50",
-      "title": "sed ante vivamus tortor duis",
-      "description": "eleifend luctus ultricies eu nibh quisque id justo sit amet",
-      "content": "posuere cubilia curae duis faucibus accumsan odio curabitur convallis",
-      "image": "http://dummyimage.com/400x300.jpg/5fa2dd/ffffff",
-      "age": 70,
-      "gender": "Male",
-      "country": "France"
+      "country": "Italy",
+      "disease": "disease-3"
     }
   ]
 }
